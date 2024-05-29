@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\CS 2023\\2nd Semester\\OOP\\PD\\Week 5\\UAMS\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9A8ABAED-5467-4436-A909-4003FCC3D9FA}|Task1\\Task1.csproj|D:\\CS 2023\\2nd Semester\\OOP\\PD\\Week 5\\UAMS\\task1\\bl\\degreeprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A8ABAED-5467-4436-A909-4003FCC3D9FA}|Task1\\Task1.csproj|solutionrelative:task1\\bl\\degreeprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A8ABAED-5467-4436-A909-4003FCC3D9FA}|Task1\\Task1.csproj|D:\\CS 2023\\2nd Semester\\OOP\\PD\\Week 5\\UAMS\\task1\\dl\\subjectcrud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A8ABAED-5467-4436-A909-4003FCC3D9FA}|Task1\\Task1.csproj|solutionrelative:task1\\dl\\subjectcrud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A8ABAED-5467-4436-A909-4003FCC3D9FA}|Task1\\Task1.csproj|d:\\cs 2023\\2nd semester\\oop\\pd\\week 5\\uams\\task1\\ui\\degreeprogramui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A8ABAED-5467-4436-A909-4003FCC3D9FA}|Task1\\Task1.csproj|solutionrelative:task1\\ui\\degreeprogramui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A8ABAED-5467-4436-A909-4003FCC3D9FA}|Task1\\Task1.csproj|D:\\CS 2023\\2nd Semester\\OOP\\PD\\Week 5\\UAMS\\task1\\dl\\degreeprogramcrud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A8ABAED-5467-4436-A909-4003FCC3D9FA}|Task1\\Task1.csproj|solutionrelative:task1\\dl\\degreeprogramcrud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A8ABAED-5467-4436-A909-4003FCC3D9FA}|Task1\\Task1.csproj|d:\\cs 2023\\2nd semester\\oop\\pd\\week 5\\uams\\task1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A8ABAED-5467-4436-A909-4003FCC3D9FA}|Task1\\Task1.csproj|solutionrelative:task1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DegreeProgramUI.cs",
+              "DocumentMoniker": "D:\\CS 2023\\2nd Semester\\OOP\\PD\\Week 5\\UAMS\\Task1\\UI\\DegreeProgramUI.cs",
+              "RelativeDocumentMoniker": "Task1\\UI\\DegreeProgramUI.cs",
+              "ToolTip": "D:\\CS 2023\\2nd Semester\\OOP\\PD\\Week 5\\UAMS\\Task1\\UI\\DegreeProgramUI.cs",
+              "RelativeToolTip": "Task1\\UI\\DegreeProgramUI.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAB8AAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-06T03:49:02.303Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SubjectCRUD.cs",
+              "DocumentMoniker": "D:\\CS 2023\\2nd Semester\\OOP\\PD\\Week 5\\UAMS\\Task1\\DL\\SubjectCRUD.cs",
+              "RelativeDocumentMoniker": "Task1\\DL\\SubjectCRUD.cs",
+              "ToolTip": "D:\\CS 2023\\2nd Semester\\OOP\\PD\\Week 5\\UAMS\\Task1\\DL\\SubjectCRUD.cs",
+              "RelativeToolTip": "Task1\\DL\\SubjectCRUD.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAYwBYAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-25T16:11:21.484Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DegreeProgramCRUD.cs",
+              "DocumentMoniker": "D:\\CS 2023\\2nd Semester\\OOP\\PD\\Week 5\\UAMS\\Task1\\DL\\DegreeProgramCRUD.cs",
+              "RelativeDocumentMoniker": "Task1\\DL\\DegreeProgramCRUD.cs",
+              "ToolTip": "D:\\CS 2023\\2nd Semester\\OOP\\PD\\Week 5\\UAMS\\Task1\\DL\\DegreeProgramCRUD.cs",
+              "RelativeToolTip": "Task1\\DL\\DegreeProgramCRUD.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA8AAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-21T05:52:33.246Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DegreeProgram.cs",
+              "DocumentMoniker": "D:\\CS 2023\\2nd Semester\\OOP\\PD\\Week 5\\UAMS\\Task1\\BL\\DegreeProgram.cs",
+              "RelativeDocumentMoniker": "Task1\\BL\\DegreeProgram.cs",
+              "ToolTip": "D:\\CS 2023\\2nd Semester\\OOP\\PD\\Week 5\\UAMS\\Task1\\BL\\DegreeProgram.cs*",
+              "RelativeToolTip": "Task1\\BL\\DegreeProgram.cs*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAwAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-21T05:52:25.026Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\CS 2023\\2nd Semester\\OOP\\PD\\Week 5\\UAMS\\Task1\\Program.cs",
+              "RelativeDocumentMoniker": "Task1\\Program.cs",
+              "ToolTip": "D:\\CS 2023\\2nd Semester\\OOP\\PD\\Week 5\\UAMS\\Task1\\Program.cs",
+              "RelativeToolTip": "Task1\\Program.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAgwBoAAABMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-21T05:46:00.124Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

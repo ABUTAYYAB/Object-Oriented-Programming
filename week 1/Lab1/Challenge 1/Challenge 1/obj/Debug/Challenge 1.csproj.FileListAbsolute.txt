@@ -1,0 +1,7 @@
+E:\study\University\semester 2\OOP\abc\Challenge 1\Challenge 1\bin\Debug\Challenge 1.exe.config
+E:\study\University\semester 2\OOP\abc\Challenge 1\Challenge 1\bin\Debug\Challenge 1.exe
+E:\study\University\semester 2\OOP\abc\Challenge 1\Challenge 1\bin\Debug\Challenge 1.pdb
+E:\study\University\semester 2\OOP\abc\Challenge 1\Challenge 1\obj\Debug\Challenge 1.csproj.AssemblyReference.cache
+E:\study\University\semester 2\OOP\abc\Challenge 1\Challenge 1\obj\Debug\Challenge 1.csproj.CoreCompileInputs.cache
+E:\study\University\semester 2\OOP\abc\Challenge 1\Challenge 1\obj\Debug\Challenge 1.exe
+E:\study\University\semester 2\OOP\abc\Challenge 1\Challenge 1\obj\Debug\Challenge 1.pdb

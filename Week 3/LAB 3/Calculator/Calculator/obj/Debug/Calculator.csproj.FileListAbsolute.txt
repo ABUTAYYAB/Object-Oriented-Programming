@@ -1,0 +1,7 @@
+E:\University\semester 2\OOP\Week 3\PD 3\Calculator\Calculator\bin\Debug\Calculator.exe.config
+E:\University\semester 2\OOP\Week 3\PD 3\Calculator\Calculator\bin\Debug\Calculator.exe
+E:\University\semester 2\OOP\Week 3\PD 3\Calculator\Calculator\bin\Debug\Calculator.pdb
+E:\University\semester 2\OOP\Week 3\PD 3\Calculator\Calculator\obj\Debug\Calculator.csproj.AssemblyReference.cache
+E:\University\semester 2\OOP\Week 3\PD 3\Calculator\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+E:\University\semester 2\OOP\Week 3\PD 3\Calculator\Calculator\obj\Debug\Calculator.exe
+E:\University\semester 2\OOP\Week 3\PD 3\Calculator\Calculator\obj\Debug\Calculator.pdb

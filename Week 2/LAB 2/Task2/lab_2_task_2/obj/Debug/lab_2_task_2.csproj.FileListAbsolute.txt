@@ -1,0 +1,7 @@
+D:\Semester 2 Lectures\OOP\OOP Lab\Week 2\lab_2_task_2\lab_2_task_2\bin\Debug\lab_2_task_2.exe.config
+D:\Semester 2 Lectures\OOP\OOP Lab\Week 2\lab_2_task_2\lab_2_task_2\bin\Debug\lab_2_task_2.exe
+D:\Semester 2 Lectures\OOP\OOP Lab\Week 2\lab_2_task_2\lab_2_task_2\bin\Debug\lab_2_task_2.pdb
+D:\Semester 2 Lectures\OOP\OOP Lab\Week 2\lab_2_task_2\lab_2_task_2\obj\Debug\lab_2_task_2.csproj.AssemblyReference.cache
+D:\Semester 2 Lectures\OOP\OOP Lab\Week 2\lab_2_task_2\lab_2_task_2\obj\Debug\lab_2_task_2.csproj.CoreCompileInputs.cache
+D:\Semester 2 Lectures\OOP\OOP Lab\Week 2\lab_2_task_2\lab_2_task_2\obj\Debug\lab_2_task_2.exe
+D:\Semester 2 Lectures\OOP\OOP Lab\Week 2\lab_2_task_2\lab_2_task_2\obj\Debug\lab_2_task_2.pdb

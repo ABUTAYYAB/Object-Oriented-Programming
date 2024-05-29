@@ -1,0 +1,7 @@
+E:\study\University\semester 2\OOP\abc\test\test\bin\Debug\test.exe.config
+E:\study\University\semester 2\OOP\abc\test\test\bin\Debug\test.exe
+E:\study\University\semester 2\OOP\abc\test\test\bin\Debug\test.pdb
+E:\study\University\semester 2\OOP\abc\test\test\obj\Debug\test.csproj.AssemblyReference.cache
+E:\study\University\semester 2\OOP\abc\test\test\obj\Debug\test.csproj.CoreCompileInputs.cache
+E:\study\University\semester 2\OOP\abc\test\test\obj\Debug\test.exe
+E:\study\University\semester 2\OOP\abc\test\test\obj\Debug\test.pdb

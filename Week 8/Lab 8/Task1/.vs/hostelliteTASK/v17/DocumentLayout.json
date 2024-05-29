@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\tahir\\OneDrive\\Desktop\\Sem2\\OOP\\Lab\\week9\\lab9\\hostelliteTASK\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{114AE25D-EDE8-4FE9-B411-F913ECF2B845}|hostelliteTASK\\hostelliteTASK.csproj|C:\\Users\\tahir\\OneDrive\\Desktop\\Sem2\\OOP\\Lab\\week9\\lab9\\hostelliteTASK\\hostellitetask\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{114AE25D-EDE8-4FE9-B411-F913ECF2B845}|hostelliteTASK\\hostelliteTASK.csproj|solutionrelative:hostellitetask\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{114AE25D-EDE8-4FE9-B411-F913ECF2B845}|hostelliteTASK\\hostelliteTASK.csproj|c:\\users\\tahir\\onedrive\\desktop\\sem2\\oop\\lab\\week9\\lab9\\hostellitetask\\hostellitetask\\bl\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{114AE25D-EDE8-4FE9-B411-F913ECF2B845}|hostelliteTASK\\hostelliteTASK.csproj|solutionrelative:hostellitetask\\bl\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{114AE25D-EDE8-4FE9-B411-F913ECF2B845}|hostelliteTASK\\hostelliteTASK.csproj|c:\\users\\tahir\\onedrive\\desktop\\sem2\\oop\\lab\\week9\\lab9\\hostellitetask\\hostellitetask\\bl\\dayscholar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{114AE25D-EDE8-4FE9-B411-F913ECF2B845}|hostelliteTASK\\hostelliteTASK.csproj|solutionrelative:hostellitetask\\bl\\dayscholar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{114AE25D-EDE8-4FE9-B411-F913ECF2B845}|hostelliteTASK\\hostelliteTASK.csproj|C:\\Users\\tahir\\OneDrive\\Desktop\\Sem2\\OOP\\Lab\\week9\\lab9\\hostelliteTASK\\hostellitetask\\bl\\hostellite.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{114AE25D-EDE8-4FE9-B411-F913ECF2B845}|hostelliteTASK\\hostelliteTASK.csproj|solutionrelative:hostellitetask\\bl\\hostellite.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DayScholar.cs",
+              "DocumentMoniker": "C:\\Users\\tahir\\OneDrive\\Desktop\\Sem2\\OOP\\Lab\\week9\\lab9\\hostelliteTASK\\hostelliteTASK\\BL\\DayScholar.cs",
+              "RelativeDocumentMoniker": "hostelliteTASK\\BL\\DayScholar.cs",
+              "ToolTip": "C:\\Users\\tahir\\OneDrive\\Desktop\\Sem2\\OOP\\Lab\\week9\\lab9\\hostelliteTASK\\hostelliteTASK\\BL\\DayScholar.cs",
+              "RelativeToolTip": "hostelliteTASK\\BL\\DayScholar.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T04:52:59.319Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Hostellite.cs",
+              "DocumentMoniker": "C:\\Users\\tahir\\OneDrive\\Desktop\\Sem2\\OOP\\Lab\\week9\\lab9\\hostelliteTASK\\hostelliteTASK\\BL\\Hostellite.cs",
+              "RelativeDocumentMoniker": "hostelliteTASK\\BL\\Hostellite.cs",
+              "ToolTip": "C:\\Users\\tahir\\OneDrive\\Desktop\\Sem2\\OOP\\Lab\\week9\\lab9\\hostelliteTASK\\hostelliteTASK\\BL\\Hostellite.cs",
+              "RelativeToolTip": "hostelliteTASK\\BL\\Hostellite.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T04:45:04.919Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\tahir\\OneDrive\\Desktop\\Sem2\\OOP\\Lab\\week9\\lab9\\hostelliteTASK\\hostelliteTASK\\BL\\Student.cs",
+              "RelativeDocumentMoniker": "hostelliteTASK\\BL\\Student.cs",
+              "ToolTip": "C:\\Users\\tahir\\OneDrive\\Desktop\\Sem2\\OOP\\Lab\\week9\\lab9\\hostelliteTASK\\hostelliteTASK\\BL\\Student.cs",
+              "RelativeToolTip": "hostelliteTASK\\BL\\Student.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T04:44:22.574Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\tahir\\OneDrive\\Desktop\\Sem2\\OOP\\Lab\\week9\\lab9\\hostelliteTASK\\hostelliteTASK\\Program.cs",
+              "RelativeDocumentMoniker": "hostelliteTASK\\Program.cs",
+              "ToolTip": "C:\\Users\\tahir\\OneDrive\\Desktop\\Sem2\\OOP\\Lab\\week9\\lab9\\hostelliteTASK\\hostelliteTASK\\Program.cs",
+              "RelativeToolTip": "hostelliteTASK\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T04:40:59.506Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

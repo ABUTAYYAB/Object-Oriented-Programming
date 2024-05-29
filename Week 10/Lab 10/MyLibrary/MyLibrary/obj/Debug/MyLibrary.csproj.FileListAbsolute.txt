@@ -1,0 +1,6 @@
+E:\University\semester 2\OOP\Week 10\Lab 10\MyLibrary\MyLibrary\bin\Debug\MyLibrary.dll
+E:\University\semester 2\OOP\Week 10\Lab 10\MyLibrary\MyLibrary\bin\Debug\MyLibrary.pdb
+E:\University\semester 2\OOP\Week 10\Lab 10\MyLibrary\MyLibrary\obj\Debug\MyLibrary.csproj.AssemblyReference.cache
+E:\University\semester 2\OOP\Week 10\Lab 10\MyLibrary\MyLibrary\obj\Debug\MyLibrary.csproj.CoreCompileInputs.cache
+E:\University\semester 2\OOP\Week 10\Lab 10\MyLibrary\MyLibrary\obj\Debug\MyLibrary.dll
+E:\University\semester 2\OOP\Week 10\Lab 10\MyLibrary\MyLibrary\obj\Debug\MyLibrary.pdb

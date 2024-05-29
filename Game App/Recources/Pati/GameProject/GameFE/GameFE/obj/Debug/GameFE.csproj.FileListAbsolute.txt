@@ -1,0 +1,29 @@
+D:\GameFE\GameFE\bin\Debug\GameFE.exe.config
+D:\GameFE\GameFE\bin\Debug\GameFE.exe
+D:\GameFE\GameFE\bin\Debug\GameFE.pdb
+D:\GameFE\GameFE\bin\Debug\EZInput.dll
+D:\GameFE\GameFE\bin\Debug\GameDLL.pdb
+D:\GameFE\GameFE\bin\Debug\EZInput.xml
+D:\GameFE\GameFE\obj\Debug\GameFE.csproj.AssemblyReference.cache
+D:\GameFE\GameFE\obj\Debug\GameFE.Form1.resources
+D:\GameFE\GameFE\obj\Debug\GameFE.Properties.Resources.resources
+D:\GameFE\GameFE\obj\Debug\GameFE.csproj.GenerateResource.cache
+D:\GameFE\GameFE\obj\Debug\GameFE.csproj.CoreCompileInputs.cache
+D:\GameFE\GameFE\obj\Debug\GameFE.csproj.Up2Date
+D:\GameFE\GameFE\obj\Debug\GameFE.exe
+D:\GameFE\GameFE\obj\Debug\GameFE.pdb
+D:\GameFE\GameFE\bin\Debug\GameDLL.dll
+E:\University\semester 2\OOP\Game App\Pati\GameProject\GameFE\GameFE\bin\Debug\GameFE.exe.config
+E:\University\semester 2\OOP\Game App\Pati\GameProject\GameFE\GameFE\bin\Debug\GameFE.exe
+E:\University\semester 2\OOP\Game App\Pati\GameProject\GameFE\GameFE\bin\Debug\GameFE.pdb
+E:\University\semester 2\OOP\Game App\Pati\GameProject\GameFE\GameFE\bin\Debug\EZInput.dll
+E:\University\semester 2\OOP\Game App\Pati\GameProject\GameFE\GameFE\bin\Debug\GameDLL.pdb
+E:\University\semester 2\OOP\Game App\Pati\GameProject\GameFE\GameFE\bin\Debug\EZInput.xml
+E:\University\semester 2\OOP\Game App\Pati\GameProject\GameFE\GameFE\obj\Debug\GameFE.csproj.AssemblyReference.cache
+E:\University\semester 2\OOP\Game App\Pati\GameProject\GameFE\GameFE\obj\Debug\GameFE.Form1.resources
+E:\University\semester 2\OOP\Game App\Pati\GameProject\GameFE\GameFE\obj\Debug\GameFE.Properties.Resources.resources
+E:\University\semester 2\OOP\Game App\Pati\GameProject\GameFE\GameFE\obj\Debug\GameFE.csproj.GenerateResource.cache
+E:\University\semester 2\OOP\Game App\Pati\GameProject\GameFE\GameFE\obj\Debug\GameFE.csproj.CoreCompileInputs.cache
+E:\University\semester 2\OOP\Game App\Pati\GameProject\GameFE\GameFE\obj\Debug\GameFE.csproj.CopyComplete
+E:\University\semester 2\OOP\Game App\Pati\GameProject\GameFE\GameFE\obj\Debug\GameFE.exe
+E:\University\semester 2\OOP\Game App\Pati\GameProject\GameFE\GameFE\obj\Debug\GameFE.pdb

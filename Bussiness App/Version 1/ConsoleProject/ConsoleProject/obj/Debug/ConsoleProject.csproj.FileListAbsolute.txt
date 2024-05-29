@@ -1,0 +1,10 @@
+E:\University\semester 2\OOP\Bussiness app Final Project\Version 1\ConsoleProject\ConsoleProject\obj\Debug\ConsoleProject.csproj.AssemblyReference.cache
+E:\University\semester 2\OOP\Bussiness app Final Project\Version 1\ConsoleProject\ConsoleProject\obj\Debug\ConsoleProject.csproj.CoreCompileInputs.cache
+E:\University\semester 2\OOP\Bussiness app Final Project\Version 1\ConsoleProject\ConsoleProject\bin\Debug\ConsoleProject.exe.config
+E:\University\semester 2\OOP\Bussiness app Final Project\Version 1\ConsoleProject\ConsoleProject\bin\Debug\ConsoleProject.exe
+E:\University\semester 2\OOP\Bussiness app Final Project\Version 1\ConsoleProject\ConsoleProject\bin\Debug\ConsoleProject.pdb
+E:\University\semester 2\OOP\Bussiness app Final Project\Version 1\ConsoleProject\ConsoleProject\bin\Debug\DairydelightsDLL.dll
+E:\University\semester 2\OOP\Bussiness app Final Project\Version 1\ConsoleProject\ConsoleProject\bin\Debug\DairydelightsDLL.pdb
+E:\University\semester 2\OOP\Bussiness app Final Project\Version 1\ConsoleProject\ConsoleProject\obj\Debug\ConsoleProject.csproj.CopyComplete
+E:\University\semester 2\OOP\Bussiness app Final Project\Version 1\ConsoleProject\ConsoleProject\obj\Debug\ConsoleProject.exe
+E:\University\semester 2\OOP\Bussiness app Final Project\Version 1\ConsoleProject\ConsoleProject\obj\Debug\ConsoleProject.pdb

@@ -1,0 +1,9 @@
+E:\University\semester 2\OOP\Week 10\FinalProjectOOP\FinalProject_OOP_1\FinalProject_OOP_1\bin\Debug\FinalProject_OOP_1.exe.config
+E:\University\semester 2\OOP\Week 10\FinalProjectOOP\FinalProject_OOP_1\FinalProject_OOP_1\bin\Debug\FinalProject_OOP_1.exe
+E:\University\semester 2\OOP\Week 10\FinalProjectOOP\FinalProject_OOP_1\FinalProject_OOP_1\bin\Debug\FinalProject_OOP_1.pdb
+E:\University\semester 2\OOP\Week 10\FinalProjectOOP\FinalProject_OOP_1\FinalProject_OOP_1\obj\Debug\FinalProject_OOP_1.csproj.AssemblyReference.cache
+E:\University\semester 2\OOP\Week 10\FinalProjectOOP\FinalProject_OOP_1\FinalProject_OOP_1\obj\Debug\FinalProject_OOP_1.Properties.Resources.resources
+E:\University\semester 2\OOP\Week 10\FinalProjectOOP\FinalProject_OOP_1\FinalProject_OOP_1\obj\Debug\FinalProject_OOP_1.csproj.GenerateResource.cache
+E:\University\semester 2\OOP\Week 10\FinalProjectOOP\FinalProject_OOP_1\FinalProject_OOP_1\obj\Debug\FinalProject_OOP_1.csproj.CoreCompileInputs.cache
+E:\University\semester 2\OOP\Week 10\FinalProjectOOP\FinalProject_OOP_1\FinalProject_OOP_1\obj\Debug\FinalProject_OOP_1.exe
+E:\University\semester 2\OOP\Week 10\FinalProjectOOP\FinalProject_OOP_1\FinalProject_OOP_1\obj\Debug\FinalProject_OOP_1.pdb

@@ -1,0 +1,14 @@
+E:\study\University\semester 2\OOP\abc\DairyDelights\DairyDelights\bin\Debug\DairyDelights.exe.config
+E:\study\University\semester 2\OOP\abc\DairyDelights\DairyDelights\bin\Debug\DairyDelights.exe
+E:\study\University\semester 2\OOP\abc\DairyDelights\DairyDelights\bin\Debug\DairyDelights.pdb
+E:\study\University\semester 2\OOP\abc\DairyDelights\DairyDelights\obj\Debug\DairyDelights.csproj.AssemblyReference.cache
+E:\study\University\semester 2\OOP\abc\DairyDelights\DairyDelights\obj\Debug\DairyDelights.csproj.CoreCompileInputs.cache
+E:\study\University\semester 2\OOP\abc\DairyDelights\DairyDelights\obj\Debug\DairyDelights.exe
+E:\study\University\semester 2\OOP\abc\DairyDelights\DairyDelights\obj\Debug\DairyDelights.pdb
+C:\Users\AL RAFIO\Downloads\OOP-main\PD1\DairyDelights\DairyDelights\bin\Debug\DairyDelights.exe.config
+C:\Users\AL RAFIO\Downloads\OOP-main\PD1\DairyDelights\DairyDelights\bin\Debug\DairyDelights.exe
+C:\Users\AL RAFIO\Downloads\OOP-main\PD1\DairyDelights\DairyDelights\bin\Debug\DairyDelights.pdb
+C:\Users\AL RAFIO\Downloads\OOP-main\PD1\DairyDelights\DairyDelights\obj\Debug\DairyDelights.csproj.AssemblyReference.cache
+C:\Users\AL RAFIO\Downloads\OOP-main\PD1\DairyDelights\DairyDelights\obj\Debug\DairyDelights.csproj.CoreCompileInputs.cache
+C:\Users\AL RAFIO\Downloads\OOP-main\PD1\DairyDelights\DairyDelights\obj\Debug\DairyDelights.exe
+C:\Users\AL RAFIO\Downloads\OOP-main\PD1\DairyDelights\DairyDelights\obj\Debug\DairyDelights.pdb

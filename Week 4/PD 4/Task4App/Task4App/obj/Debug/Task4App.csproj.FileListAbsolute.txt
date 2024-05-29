@@ -1,0 +1,7 @@
+E:\University\semester 2\OOP\Week 4\PD 4\Task4App\Task4App\bin\Debug\Task4App.exe.config
+E:\University\semester 2\OOP\Week 4\PD 4\Task4App\Task4App\bin\Debug\Task4App.exe
+E:\University\semester 2\OOP\Week 4\PD 4\Task4App\Task4App\bin\Debug\Task4App.pdb
+E:\University\semester 2\OOP\Week 4\PD 4\Task4App\Task4App\obj\Debug\Task4App.csproj.AssemblyReference.cache
+E:\University\semester 2\OOP\Week 4\PD 4\Task4App\Task4App\obj\Debug\Task4App.csproj.CoreCompileInputs.cache
+E:\University\semester 2\OOP\Week 4\PD 4\Task4App\Task4App\obj\Debug\Task4App.exe
+E:\University\semester 2\OOP\Week 4\PD 4\Task4App\Task4App\obj\Debug\Task4App.pdb

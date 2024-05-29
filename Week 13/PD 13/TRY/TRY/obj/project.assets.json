@@ -1,0 +1,125 @@
+{
+  "version": 3,
+  "targets": {
+    "net6.0-windows7.0": {
+      "EZInput/1.3.2": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard2.0/EZInput.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/netstandard2.0/EZInput.dll": {
+            "related": ".xml"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "EZInput/1.3.2": {
+      "sha512": "/upsIA5CsMN/AEWRV/Fu2UAilOfCIPMEJxCyx00qaChqJwt4f6q2OPPLWmluUUE2hmuKn035BoV4/kItbb+CXQ==",
+      "type": "package",
+      "path": "ezinput/1.3.2",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "ezinput.1.3.2.nupkg.sha512",
+        "ezinput.nuspec",
+        "lib/netstandard2.0/EZInput.dll",
+        "lib/netstandard2.0/EZInput.xml"
+      ]
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net6.0-windows7.0": [
+      "EZInput >= 1.3.2"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\AL RAFIO\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "E:\\University\\semester 2\\OOP\\Week 13\\PD 13\\TRY\\TRY\\TRY.csproj",
+      "projectName": "TRY",
+      "projectPath": "E:\\University\\semester 2\\OOP\\Week 13\\PD 13\\TRY\\TRY\\TRY.csproj",
+      "packagesPath": "C:\\Users\\AL RAFIO\\.nuget\\packages\\",
+      "outputPath": "E:\\University\\semester 2\\OOP\\Week 13\\PD 13\\TRY\\TRY\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\AL RAFIO\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net6.0-windows"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net6.0-windows7.0": {
+          "targetAlias": "net6.0-windows",
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net6.0-windows7.0": {
+        "targetAlias": "net6.0-windows",
+        "dependencies": {
+          "EZInput": {
+            "target": "Package",
+            "version": "[1.3.2, )"
+          }
+        },
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "downloadDependencies": [
+          {
+            "name": "Microsoft.AspNetCore.App.Ref",
+            "version": "[6.0.26, 6.0.26]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Host.win-x64",
+            "version": "[6.0.26, 6.0.26]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Ref",
+            "version": "[6.0.26, 6.0.26]"
+          },
+          {
+            "name": "Microsoft.WindowsDesktop.App.Ref",
+            "version": "[6.0.26, 6.0.26]"
+          }
+        ],
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          },
+          "Microsoft.WindowsDesktop.App.WindowsForms": {
+            "privateAssets": "none"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

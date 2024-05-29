@@ -1,0 +1,4 @@
+milk|100|80||very good
+butter|10|0||very good butter
+lassi|12|12||
+desi|100|12||

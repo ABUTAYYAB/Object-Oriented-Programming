@@ -1,0 +1,7 @@
+E:\University\semester 2\OOP\Week 2\PD 2\CRUD\CRUD\bin\Debug\CRUD.exe.config
+E:\University\semester 2\OOP\Week 2\PD 2\CRUD\CRUD\bin\Debug\CRUD.exe
+E:\University\semester 2\OOP\Week 2\PD 2\CRUD\CRUD\bin\Debug\CRUD.pdb
+E:\University\semester 2\OOP\Week 2\PD 2\CRUD\CRUD\obj\Debug\CRUD.csproj.AssemblyReference.cache
+E:\University\semester 2\OOP\Week 2\PD 2\CRUD\CRUD\obj\Debug\CRUD.csproj.CoreCompileInputs.cache
+E:\University\semester 2\OOP\Week 2\PD 2\CRUD\CRUD\obj\Debug\CRUD.exe
+E:\University\semester 2\OOP\Week 2\PD 2\CRUD\CRUD\obj\Debug\CRUD.pdb

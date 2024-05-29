@@ -1,0 +1,40 @@
+G:\week12\TRY\TRY\bin\Debug\net6.0-windows\TRY.exe
+G:\week12\TRY\TRY\bin\Debug\net6.0-windows\TRY.deps.json
+G:\week12\TRY\TRY\bin\Debug\net6.0-windows\TRY.runtimeconfig.json
+G:\week12\TRY\TRY\bin\Debug\net6.0-windows\TRY.dll
+G:\week12\TRY\TRY\bin\Debug\net6.0-windows\TRY.pdb
+G:\week12\TRY\TRY\bin\Debug\net6.0-windows\EZInput.dll
+G:\week12\TRY\TRY\obj\Debug\net6.0-windows\TRY.csproj.AssemblyReference.cache
+G:\week12\TRY\TRY\obj\Debug\net6.0-windows\TRY.Form1.resources
+G:\week12\TRY\TRY\obj\Debug\net6.0-windows\TRY.Properties.Resources.resources
+G:\week12\TRY\TRY\obj\Debug\net6.0-windows\TRY.csproj.GenerateResource.cache
+G:\week12\TRY\TRY\obj\Debug\net6.0-windows\TRY.GeneratedMSBuildEditorConfig.editorconfig
+G:\week12\TRY\TRY\obj\Debug\net6.0-windows\TRY.AssemblyInfoInputs.cache
+G:\week12\TRY\TRY\obj\Debug\net6.0-windows\TRY.AssemblyInfo.cs
+G:\week12\TRY\TRY\obj\Debug\net6.0-windows\TRY.csproj.CoreCompileInputs.cache
+G:\week12\TRY\TRY\obj\Debug\net6.0-windows\TRY.csproj.CopyComplete
+G:\week12\TRY\TRY\obj\Debug\net6.0-windows\TRY.dll
+G:\week12\TRY\TRY\obj\Debug\net6.0-windows\refint\TRY.dll
+G:\week12\TRY\TRY\obj\Debug\net6.0-windows\TRY.pdb
+G:\week12\TRY\TRY\obj\Debug\net6.0-windows\TRY.genruntimeconfig.cache
+G:\week12\TRY\TRY\obj\Debug\net6.0-windows\ref\TRY.dll
+E:\University\semester 2\OOP\Week 13\PD 13\TRY\TRY\obj\Debug\net6.0-windows\TRY.csproj.AssemblyReference.cache
+E:\University\semester 2\OOP\Week 13\PD 13\TRY\TRY\obj\Debug\net6.0-windows\TRY.Form1.resources
+E:\University\semester 2\OOP\Week 13\PD 13\TRY\TRY\obj\Debug\net6.0-windows\TRY.Properties.Resources.resources
+E:\University\semester 2\OOP\Week 13\PD 13\TRY\TRY\obj\Debug\net6.0-windows\TRY.csproj.GenerateResource.cache
+E:\University\semester 2\OOP\Week 13\PD 13\TRY\TRY\obj\Debug\net6.0-windows\TRY.GeneratedMSBuildEditorConfig.editorconfig
+E:\University\semester 2\OOP\Week 13\PD 13\TRY\TRY\obj\Debug\net6.0-windows\TRY.AssemblyInfoInputs.cache
+E:\University\semester 2\OOP\Week 13\PD 13\TRY\TRY\obj\Debug\net6.0-windows\TRY.AssemblyInfo.cs
+E:\University\semester 2\OOP\Week 13\PD 13\TRY\TRY\obj\Debug\net6.0-windows\TRY.csproj.CoreCompileInputs.cache
+E:\University\semester 2\OOP\Week 13\PD 13\TRY\TRY\obj\Debug\net6.0-windows\TRY.dll
+E:\University\semester 2\OOP\Week 13\PD 13\TRY\TRY\obj\Debug\net6.0-windows\refint\TRY.dll
+E:\University\semester 2\OOP\Week 13\PD 13\TRY\TRY\obj\Debug\net6.0-windows\TRY.pdb
+E:\University\semester 2\OOP\Week 13\PD 13\TRY\TRY\bin\Debug\net6.0-windows\TRY.exe
+E:\University\semester 2\OOP\Week 13\PD 13\TRY\TRY\bin\Debug\net6.0-windows\TRY.deps.json
+E:\University\semester 2\OOP\Week 13\PD 13\TRY\TRY\bin\Debug\net6.0-windows\TRY.runtimeconfig.json
+E:\University\semester 2\OOP\Week 13\PD 13\TRY\TRY\bin\Debug\net6.0-windows\TRY.dll
+E:\University\semester 2\OOP\Week 13\PD 13\TRY\TRY\bin\Debug\net6.0-windows\TRY.pdb
+E:\University\semester 2\OOP\Week 13\PD 13\TRY\TRY\bin\Debug\net6.0-windows\EZInput.dll
+E:\University\semester 2\OOP\Week 13\PD 13\TRY\TRY\obj\Debug\net6.0-windows\TRY.csproj.CopyComplete
+E:\University\semester 2\OOP\Week 13\PD 13\TRY\TRY\obj\Debug\net6.0-windows\TRY.genruntimeconfig.cache
+E:\University\semester 2\OOP\Week 13\PD 13\TRY\TRY\obj\Debug\net6.0-windows\ref\TRY.dll
